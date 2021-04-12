@@ -13,6 +13,7 @@
 
 <!-- リリース作業 -->
 <!-- 清水がやりました -->
+<!-- 清水がやりました -->
 	<label>勤務時間入力</label>
 	<form  name ="form" action = "/kintai/check" method="post">
 		<p>
