@@ -7,11 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<!-- dev2 -->
 
-<!-- featureブランチから追加 -->
-
-<!-- release作業 -->
 	<label>勤務時間入力</label>
 	<form  name ="form" action = "/kintai/check" method="post">
 		<p>
@@ -37,7 +33,6 @@
 
 		</p>
 	</form>
-<!-- dev2 -->
 <script>
 
 
