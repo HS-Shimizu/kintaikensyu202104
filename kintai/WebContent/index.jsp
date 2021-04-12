@@ -9,7 +9,7 @@
 <body>
 <!-- dev2 -->
 
-<!-- featureを追加 -->
+<!-- featureブランチから追加 -->
 	<label>勤務時間入力</label>
 	<form  name ="form" action = "/kintai/check" method="post">
 		<p>
